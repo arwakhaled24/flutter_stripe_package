@@ -1,7 +1,7 @@
-# payment
+# payment gitway (stripe)
 
 A new Flutter project.
-
+allows you to build delightful payment experiences in your native Android and iOS apps using Flutter
 ## Getting Started
 
 This project is a starting point for a Flutter application.
